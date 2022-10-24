@@ -1,0 +1,1 @@
+Color on background needs work especially with the red on Nike. Probably should figure out how to make the overlay effect disappear when button hover is active to showcase actual product photo behind it.
